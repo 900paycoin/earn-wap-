@@ -94,33 +94,9 @@
             <div class="mb-3"> 
              <input type="text" class="form-control" id="PhonuNumber" required placeholder="Phone Number" wire:model="phone_number"> 
              </div> </section>
-        
-        
-        <div class="invite-content"> 
-               <h5>Deposit With Bitcoin</h5> 
-               <p style="color:#fff; text-align: center; font-size: 16px ">Send exactly <b class="text-success"></b> <b class="text-warning">( 0.0230269 BTC)</b>&nbsp; to this bitcoin address<br></p> 
-               <div class="copy-link"> 
-                <div class="input-group"> 
-                 <input id="link" type="text" class="form-control" value="bc1qte4csyqa5yz8gxak5fr7qdgm6ylrr5zg6nnpu6" readonly>
-                 <span data-clipboard-target="#link" id="cpy" class="input-group-text">Copy</span> 
-                </div>
-                            <h5>Deposit With Dogecoin</h5>  
-               <p style="color:#fff; text-align: center; font-size: 16px ">Send exactly <b class="text-success"></b> <b class="text-warning">( 150.00 DOGECOIN)</b>&nbsp; to this Dogecoin address<br></p> 
-               <div class="copy-link"> 
-                <div class="input-group"> 
-                 <input id="link" type="text" class="form-control" value="DTbpeBdqbPKP9YwkWzc7B134kWgjqHjxWa" readonly>
-                 <span data-clipboard-target="#link" id="cpy" class="input-group-text">Copy</span>
-                 </div>
-                   
-                    <div class="invite-content">
-                    <h5>Deposit With Ethereum </h5> 
-               <p style="color:#fff; text-align: center; font-size: 16px ">Send exactly <b class="text-success"></b> <b class="text-warning">( 0.021 Ethereum)</b>&nbsp; to this Ethereum address<br></p> 
-               <div class="copy-link"> 
-                <div class="input-group"> 
-                 <input id="link" type="text" class="form-control" value="0x4456246f94E4D3a231e19aeB8CfeA0Bb8fD15FaA" readonly>
-                 <span data-clipboard-target="#link" id="cpy" class="input-group-text">Copy</span> 
 
-        </div>
+      <a href="https://pay.beyonic.com/NserekoGodfrey/sHO" onclick="navigate('createPortfolio');" <button="" class="btn btn-primary btn-block waves-effect">GO TO DASHBOARD</a>
+        
        
                     <h5>INVESTMENT PLANS </h5>
             <div class="mb-3"> 
